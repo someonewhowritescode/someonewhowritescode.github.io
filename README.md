@@ -1,14 +1,4 @@
-<!--
--->
-<!--
--->
-<!doctype html>
-<!--  -->
-<!--
-    
-    
-		
-		  -->
+
 <html ng-app="siteGeneratorStaticsConsumerApp" lang="en">
 <head>
   <meta charset="utf-8">
